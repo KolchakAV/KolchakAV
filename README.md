@@ -6,5 +6,8 @@
 <h3 align="left">👯 I’m looking to collaborate on Data Science, Data Analytics, ML.</h3>
 <h3 align="left">🤔 I’m looking for help with analytical research, market research, sales forecasting, etc.</h3>
 <h3 align="left">📫 How to reach me: Telegram: [@hadahoj](https://t.me/hadahoj)</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 
