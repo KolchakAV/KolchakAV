@@ -7,7 +7,8 @@
 <h3 align="left">🌱 I work with Python (pandas, numpy, matplotlib, SciPy, Seaborn, sklearn, TeleBot, etc.), SQL, and more.</h3>    
 <h3 align="left">👯 I’m looking to collaborate on Data Science, Data Analytics, ML.</h3>
 <h3 align="left">🤔 I’m looking for help with analytical research, market research, sales forecasting, etc.</h3>
-<h3 align="left">📫 How to reach me: Telegram: [@hadahoj](https://t.me/hadahoj)</h3>
+<h3 align="left">📫 How to reach me: Telegram: https://t.me/hadahoj</h3>
+<h3 align="left">⚡️ Fun fact: I have lived in 3 countries and also worked as a journalist.</h3>
 
 
 
