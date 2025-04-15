@@ -8,11 +8,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-##🌱 I work with Python (pandas, numpy, matplotlib.pyplot, Scipy, Seaborn, sklearn, TeleBot, etc.), SQL, other.    
-##👯 I’m looking to collaborate on Data Sciense, Data Analytics, ML.
-##🤔 I’m looking for help with analytical research, market research, sales forecast, etc.
+<h3 align="left">🌱 I work with Python (pandas, numpy, matplotlib.pyplot, Scipy, Seaborn, sklearn, TeleBot, etc.), SQL, other.</h3>    
+<h3 align="left">👯 I’m looking to collaborate on Data Sciense, Data Analytics, ML.</h3>
+<h3 align="left">🤔 I’m looking for help with analytical research, market research, sales forecast, etc.</h3>
 - 💬 Ask me about ...
-##📫 How to reach me: tg: @hadahoj
+<h3 align="left">📫 How to reach me: tg: @hadahoj</h3>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
