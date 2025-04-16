@@ -10,5 +10,7 @@
 <h3 align="left">📫 How to reach me: Telegram: https://t.me/hadahoj</h3>
 <h3 align="left">⚡️ Fun fact: I have lived in 3 countries and also worked as a journalist.</h3>
 
+<h1 align="center">My projects:</h1>
+
 
 
